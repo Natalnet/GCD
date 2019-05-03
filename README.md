@@ -1,4 +1,4 @@
-# Grupo de Ciencia de Dados Educacionais
+# Grupo de Ciência de Dados Educacionais
 
 O Grupo de Ciência de Dados Educacionais surge dentro do contexto dos laboratorios Natalnet.
 O Objetivo é formação de recursos humanos nas áreas de:
