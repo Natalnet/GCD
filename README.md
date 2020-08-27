@@ -1,15 +1,15 @@
-# Grupo de Ciência de Dados Educacionais
+# Grupo de Ciência
 
 O Grupo de Ciência de Dados Educacionais surge dentro do contexto dos laboratorios Natalnet.
 O Objetivo é formação de recursos humanos nas áreas de:
 Ciência de Dados, Machine Laerning , Mineração de Dados e Educação;
 
 # Coordenadores 
-<ul>
-<li>Renata Pitta</li>
-<li>Orivaldo Santana</li>
-<li>Igor Medeiros</li>
-</ul>
+
+* Renata Pitta
+* Orivaldo Santana
+* Igor Medeiros
+
 
 # Pesquisadores
 <ol>
